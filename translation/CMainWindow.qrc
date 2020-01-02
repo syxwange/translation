@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/CMainWindow">
+        <file>Resources/pic/translation.png</file>
+        <file>translate.ico</file>
+    </qresource>
+</RCC>
