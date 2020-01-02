@@ -2,6 +2,8 @@
 #include <QtWidgets/QApplication>
 #include <qtimer.h>
 #include "CGlobalShortCut.h"
+
+////1.00
 int main(int argc, char *argv[])
 {
 	QApplication a(argc, argv);
